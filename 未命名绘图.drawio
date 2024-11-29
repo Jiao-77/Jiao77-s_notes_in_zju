@@ -4,8 +4,88 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LONx9ICQFfg4vUHQVVtS-1" target="LONx9ICQFfg4vUHQVVtS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LONx9ICQFfg4vUHQVVtS-1" target="LONx9ICQFfg4vUHQVVtS-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LONx9ICQFfg4vUHQVVtS-1" target="LONx9ICQFfg4vUHQVVtS-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="10" />
+              <mxPoint x="750" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LONx9ICQFfg4vUHQVVtS-1" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px; font-weight: 700; orphans: 4; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Geometric Pattern Match Using Edge Driven&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-2" value="trans to ranctangle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px; font-weight: 700; orphans: 4; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;iClaire&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-5" value="cut to topology" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="20" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-6" value="trans to ranctangle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-9" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px; font-weight: 700; orphans: 4; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Strategy-Oriented Exact Pattern Grouping Approaches for Integrated Circuit Designs&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="180" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-11" value="Graph" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-12" value="hash" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-13" value="Clip shift" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-14" value="&#xa;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 4; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;A General Layout Pattern Clustering Using Geometric Matching-based Clip Relocation and Lower-bound Aided Optimization&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-15" value="Graph" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="148" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-16" value="cut to topology" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LONx9ICQFfg4vUHQVVtS-9" target="LONx9ICQFfg4vUHQVVtS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-19" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px; font-weight: 700; orphans: 4; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Efficient Layout Pattern Matching Based on Local Information&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="50" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-21" value="trans to ranctangle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-22" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px; font-weight: 700; orphans: 4; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Hotspot Detection with Machine Learning Based on Pixel-Based Feature Extraction&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="380" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-23" value="ML" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="350" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-24" value="2D DFT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-25" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px; font-weight: 700; orphans: 4; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Layout Hotspot Detection With Feature Tensor Generation and Deep Biased Learning&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-26" value="CNN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LONx9ICQFfg4vUHQVVtS-27" value="DCT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="350" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
